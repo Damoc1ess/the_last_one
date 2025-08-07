@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(psql:*)",
+      "Bash(rm:*)",
+      "Bash(npm install)",
+      "Bash(curl:*)",
+      "Bash(pkill:*)",
+      "WebFetch(domain:localhost)",
+      "Bash(node:*)",
+      "Bash(git remote remove:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
