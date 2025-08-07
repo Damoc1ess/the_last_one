@@ -1,0 +1,7 @@
+{
+  "name": "vocalai-saas",
+  "framework": "sveltekit",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".svelte-kit",
+  "devCommand": "npm run dev"
+}
